@@ -12,7 +12,7 @@ for (var i = 1; i <= 100; i++) {
 
 
 
-   
+  // fizzbuzz
   $(document).on('scroll', function(){
                  
     var pixelsFromTop = $(document).scrollTop()
